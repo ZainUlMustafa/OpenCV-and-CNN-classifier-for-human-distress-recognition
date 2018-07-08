@@ -1,12 +1,12 @@
 # OpenCV-and-CNN-classifier-for-human-distress-recognition
 To recognize the human distress, OpenCV is used to process the image first into a way that it gets easier and less faulty for the classifer to classify 36 total distress characters. It is developed for drone research for IMecheUASChallenge by Sciengit and NUST Airworks in 2018
 
-##############################################################################
+<hr>
 <br>
-THIS PROGRAM IS WRITTEN BY ZAIN UL MUSTAFA IN A RESEARCH BASED PROJECT
+<b>THIS PROGRAM IS WRITTEN BY ZAIN UL MUSTAFA IN A RESEARCH BASED PROJECT
 OWNED BY SCIENGIT. DATASET IS EXPLICITLY PROVIDED AND COLLECTED UNDER
 NUST AIRWORKS WHICH AS PER REGULATION IS COPYRIGHTED. DATASET AS A WHOLE
-IS NOT PROVIDED WITH THIS PROJECT OF SCIENGIT
+IS NOT PROVIDED WITH THIS PROJECT OF SCIENGIT<b>
 
 Sciengit 2018
 Author: Zain Ul Mustafa
@@ -33,7 +33,7 @@ so you can see what we have trained using this technique and modify them and tes
 
 Results of this model is provided in the repository.
 
-Download the TOTAL.zipper from this link: bit.ly/NAWData2018
+Download the TOTAL.zipper from this link: <a href="http://bit.ly/NAWData2018>bit.ly/NAWData2018</a>
 and rename it to TOTAL.zip
 
 Before running this code, you must:

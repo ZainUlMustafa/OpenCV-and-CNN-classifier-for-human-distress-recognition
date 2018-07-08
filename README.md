@@ -41,10 +41,10 @@ Before running this code, you must:
 
 Your project folder should be in this hierarchy:
 Main folder
-	TOTAL
-		0 (1).jpg
-	TOTAL_res
-	modelling.py
-	load_model.py
-	model.h5
-	model.json
+''''''''TOTAL
+''''''''''''0 (1).jpg
+''''''''TOTAL_res
+''''''''modelling.py
+''''''''load_model.py
+''''''''model.h5
+''''''''model.json

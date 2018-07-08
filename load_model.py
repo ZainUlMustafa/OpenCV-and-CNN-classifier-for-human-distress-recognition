@@ -115,6 +115,7 @@ while(True):
         print(-1)
     elif prediction != -1:
         try:
+            # extracting the GPS latitude and longitude from RMC data
             k = data.readline()
             a = k[20:29]
             b = k[32:42]

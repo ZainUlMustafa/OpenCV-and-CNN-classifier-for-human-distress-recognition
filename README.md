@@ -33,7 +33,7 @@ so you can see what we have trained using this technique and modify them and tes
 
 Results of this model is provided in the repository.
 
-Download the TOTAL.zipper from this link: <a href="http://bit.ly/NAWData2018>bit.ly/NAWData2018</a>
+Download the TOTAL.zipper from this link: <a href="http://bit.ly/NAWData2018">bit.ly/NAWData2018</a>
 and rename it to TOTAL.zip
 
 Before running this code, you must:

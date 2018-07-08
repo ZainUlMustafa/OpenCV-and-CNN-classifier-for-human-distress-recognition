@@ -29,7 +29,8 @@ so you can see what we have trained using this technique and modify them and tes
 
 Results of this model is provided in the repository.
 
-Download the TOTAL.zip from this link: bit.ly/NAWData2018
+Download the TOTAL.zipper from this link: bit.ly/NAWData2018
+and rename it to TOTAL.zip
 
 Before running this code, you must:
 1) Unzip the TOTAL.zip

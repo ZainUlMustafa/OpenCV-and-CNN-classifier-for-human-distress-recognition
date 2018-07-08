@@ -1,0 +1,46 @@
+####################################################################################################
+THIS PROGRAM IS WRITTEN BY ZAIN UL MUSTAFA IN A RESEARCH BASED PROJECT
+OWNED BY SCIENGIT. DATASET IS EXPLICITLY PROVIDED AND COLLECTED UNDER
+NUST AIRWORKS WHICH AS PER REGULATION IS COPYRIGHTED. DATASET AS A WHOLE
+IS NOT PROVIDED WITH THIS PROJECT OF SCIENGIT
+
+Sciengit 2018
+Author: Zain Ul Mustafa
+
+This code is created for the recognition of signs of distress. Every alphabet and the numerics which 
+accounts for a total of 36 characters means something which can be assigned by you with anything
+e.g A means NEED WHEAT, B means NEED RICE, E means MEDICAL EMERGENCY, and etc 
+
+Convolutional Neural Network (CNN) is used as a classifier.
+
+A microcontroller Arduino with a GPS is connected to the the computer which throws the GPS RMC data
+to the serial port which is read by this software. So whenever a character is detected, not only
+the character gets detected but also its GPS location is known.
+
+We have trained two different models in which we changed few parameters to just see 
+which turns out to be better. An average of 85% accuracy is achieved using the current
+parameters.
+
+If you want, change number of epoch, number of neurons, number of hidden layers, 
+filter window size etc to see what turns out to be the result that suits you the best.
+
+Few images that Sciengit owns are contained in sample_data folder
+so you can see what we have trained using this technique and modify them and test them.
+
+Results of this model is provided in the repository.
+
+Download the TOTAL.zip from this link: bit.ly/NAWData2018
+
+Before running this code, you must:
+1) Unzip the TOTAL.zip
+2) Make a folder TOTAL_res in the same directory
+
+Your project folder should be in this hierarchy:
+Main folder
+	TOTAL
+		0 (1).jpg
+	TOTAL_res
+	modelling.py
+	load_model.py
+	model.h5
+	model.json

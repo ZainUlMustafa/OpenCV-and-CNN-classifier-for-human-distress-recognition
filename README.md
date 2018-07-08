@@ -47,7 +47,7 @@ Main folder
 <br>
 ''''''''TOTAL
 <br>
-''''''''''''0 (1).jpg
+'''''''''''''''''''''0 (1).jpg
 <br>
 ''''''''TOTAL_res
 <br>

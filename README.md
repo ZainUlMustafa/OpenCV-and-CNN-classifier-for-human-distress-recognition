@@ -6,10 +6,12 @@ To recognize the human distress, OpenCV is used to process the image first into 
 <b>THIS PROGRAM IS WRITTEN BY ZAIN UL MUSTAFA IN A RESEARCH BASED PROJECT
 OWNED BY SCIENGIT. DATASET IS EXPLICITLY PROVIDED AND COLLECTED UNDER
 NUST AIRWORKS WHICH AS PER REGULATION IS COPYRIGHTED. DATASET AS A WHOLE
-IS NOT PROVIDED WITH THIS PROJECT OF SCIENGIT<b>
+IS NOT PROVIDED WITH THIS PROJECT OF SCIENGIT</b>
 
+<hr>
 Sciengit 2018
 Author: Zain Ul Mustafa
+<hr>
 
 This code is created for the recognition of signs of distress. Every alphabet and the numerics which 
 accounts for a total of 36 characters means something which can be assigned by you with anything

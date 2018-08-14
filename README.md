@@ -7,11 +7,6 @@ To recognize the human distress, OpenCV is used to process the image first into 
 OWNED BY SCIENGIT. DATASET IS EXPLICITLY PROVIDED AND COLLECTED UNDER
 NUST AIRWORKS WHICH AS PER REGULATION IS COPYRIGHTED. DATASET AS A WHOLE
 IS NOT PROVIDED WITH THIS PROJECT OF SCIENGIT</b>
-
-<hr>
-Sciengit Copyrighted 2018
-<br>
-Author: Zain Ul Mustafa
 <hr>
 
 This code is created for the recognition of signs of distress. Every alphabet and the numerics which 
@@ -37,8 +32,8 @@ so you can see what we have trained using this technique and modify them and tes
 Results of this model is provided in the repository.
 
 Request to dowload our dataset: 
-<p>>>><a href="mailto:sciengit@gmail.com">sciengit@gmail.com</a></p>
-<p>>>><a href="mailto:nust.airworks@gmail.com">nust.airworks@gmail.com</a></p>
+<p>>>> <a href="mailto:sciengit@gmail.com">sciengit@gmail.com</a></p>
+<p>>>> <a href="mailto:nust.airworks@gmail.com">nust.airworks@gmail.com</a></p>
 
 Before running this code, you must:
 1) Unzip the dataset file you get from us (TOTAL.zip)

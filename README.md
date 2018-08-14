@@ -37,8 +37,8 @@ so you can see what we have trained using this technique and modify them and tes
 Results of this model is provided in the repository.
 
 Request to dowload our dataset: 
-<p>>>> sciengit@gmail.com</p>
-<p>>>> nust.airworks@gmail.com</p>
+<p>>>><a href="mailto:sciengit@gmail.com">sciengit@gmail.com</a></p>
+<p>>>><a href="mailto:nust.airworks@gmail.com">nust.airworks@gmail.com</a></p>
 
 Before running this code, you must:
 1) Unzip the dataset file you get from us (TOTAL.zip)

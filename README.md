@@ -1,13 +1,10 @@
 # OpenCV-and-CNN-classifier-for-human-distress-recognition
 To recognize the human distress, OpenCV is used to process the image first into a way that it gets easier and less faulty for the classifer to classify 36 total distress characters. It is developed for drone research for IMecheUASChallenge by Sciengit and NUST Airworks in 2018
+<hr>
 
-<hr>
-<br>
-<b>THIS PROGRAM IS WRITTEN BY ZAIN UL MUSTAFA IN A RESEARCH BASED PROJECT
-OWNED BY SCIENGIT. DATASET IS EXPLICITLY PROVIDED AND COLLECTED UNDER
-NUST AIRWORKS WHICH AS PER REGULATION IS COPYRIGHTED. DATASET AS A WHOLE
-IS NOT PROVIDED WITH THIS PROJECT OF SCIENGIT</b>
-<hr>
+<img src="https://raw.githubusercontent.com/ZainUlMustafa/OpenCV-and-CNN-classifier-for-human-distress-recognition/master/predictions%20(1).PNG" width="70%" height="70%">
+
+<img src="https://raw.githubusercontent.com/ZainUlMustafa/OpenCV-and-CNN-classifier-for-human-distress-recognition/master/predictions%20(2).PNG" width="70%" height="70%">
 
 This code is created for the recognition of signs of distress. Every alphabet and the numerics which 
 accounts for a total of 36 characters means something which can be assigned by you with anything
